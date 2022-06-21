@@ -1,5 +1,5 @@
 ### EX NO:06
-### DATE:
+### DATE:09.06.2022
 # <p align="center">  Animator</p>   
 
 ## Aim:
@@ -70,3 +70,4 @@ public class idleToCrouch : MonoBehaviour
 
 
 ## Result:
+Animator using unity is developed successfully.
